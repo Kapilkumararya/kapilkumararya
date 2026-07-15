@@ -35,4 +35,4 @@ Currently diving deep into **Machine Learning, Generative AI (RAG/LLMs), and Ful
 ## 📬 Let's Connect
 * **Email:** kapilkumararya30@gmail.com
 * **LinkedIn:** [kapil-kumar-arya](https://www.linkedin.com/in/kapil-kumar-arya-b0636528a)
-* **Codeforces:** [kapilkumararya](https://codeforces.com)
+* **Codeforces:** [kapilkumararya](https://codeforces.com/profile/Kapilarya)
